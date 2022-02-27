@@ -2,20 +2,20 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-02-21T18:02:59Z" name="Default suite" finished-at="2022-02-21T18:03:00Z" duration-ms="1559">
+  <suite started-at="2022-02-27T05:31:07Z" name="Default suite" finished-at="2022-02-27T05:31:08Z" duration-ms="1351">
     <groups>
     </groups>
-    <test started-at="2022-02-21T18:02:59Z" name="Default test" finished-at="2022-02-21T18:03:00Z" duration-ms="1559">
+    <test started-at="2022-02-27T05:31:07Z" name="Default test" finished-at="2022-02-27T05:31:08Z" duration-ms="1351">
       <class name="NotePad2.NewTest">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:NotePad2.NewTest@6d025197]" started-at="2022-02-22T02:02:59Z" name="beforeTest" finished-at="2022-02-22T02:02:59Z" duration-ms="7" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:NotePad2.NewTest@19b93fa8]" started-at="2022-02-27T13:31:07Z" name="beforeTest" finished-at="2022-02-27T13:31:07Z" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="f()[pri:0, instance:NotePad2.NewTest@6d025197]" started-at="2022-02-22T02:02:59Z" name="f" finished-at="2022-02-22T02:03:00Z" duration-ms="1543" status="PASS">
+        <test-method signature="f()[pri:0, instance:NotePad2.NewTest@19b93fa8]" started-at="2022-02-27T13:31:07Z" name="f" finished-at="2022-02-27T13:31:08Z" duration-ms="1334" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:NotePad2.NewTest@6d025197]" started-at="2022-02-22T02:03:00Z" name="afterTest" finished-at="2022-02-22T02:03:00Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:NotePad2.NewTest@19b93fa8]" started-at="2022-02-27T13:31:08Z" name="afterTest" finished-at="2022-02-27T13:31:08Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
